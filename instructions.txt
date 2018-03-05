@@ -1,0 +1,9 @@
+Instruction to run the program
+
+- Make sure all the files are in the same directory
+
+- run the webserver.py
+
+- In the browser, type localhost:6869/filename.html
+
+
